@@ -1,17 +1,1 @@
-{
-  "trades": [],
-  "openPositions": {},
-  "stats": {
-    "totalTrades": 0,
-    "openPositions": 0,
-    "winRate": 0,
-    "totalClosedPnl": 0,
-    "totalOpenPnl": 0,
-    "avgGain": 0,
-    "avgLoss": 0,
-    "profitFactor": null,
-    "bestTrade": null,
-    "worstTrade": null,
-    "lastUpdated": "2026-06-14"
-  }
-}
+{"trades":[],"openPositions":{},"stats":{}}
