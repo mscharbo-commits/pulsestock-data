@@ -505,7 +505,11 @@
       "pnlDollar": 2.29,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 13.214,
+      "currentValue": 7842.24,
+      "dollarPnl": 30.24
     },
     "long_BRK.B": {
       "sym": "BRK.B",
@@ -530,7 +534,11 @@
       "pnlDollar": 5.13,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 15.9302,
+      "currentValue": 7893.73,
+      "dollarPnl": 81.73
     },
     "long_PG": {
       "sym": "PG",
@@ -555,7 +563,11 @@
       "pnlDollar": -0.87,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 9375,
+      "shares": 61.9507,
+      "currentValue": 9321.1,
+      "dollarPnl": -53.9
     },
     "long_MRK": {
       "sym": "MRK",
@@ -580,7 +592,11 @@
       "pnlDollar": -0.8,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 67.5194,
+      "currentValue": 7757.98,
+      "dollarPnl": -54.02
     },
     "long_INTU": {
       "sym": "INTU",
@@ -605,7 +621,11 @@
       "pnlDollar": 4.07,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 28.1311,
+      "currentValue": 7926.5,
+      "dollarPnl": 114.5
     },
     "long_BKNG": {
       "sym": "BKNG",
@@ -630,7 +650,11 @@
       "pnlDollar": 0.62,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 44.8914,
+      "currentValue": 7839.83,
+      "dollarPnl": 27.83
     },
     "long_QCOM": {
       "sym": "QCOM",
@@ -655,7 +679,11 @@
       "pnlDollar": 2.26,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 35.7447,
+      "currentValue": 7892.79,
+      "dollarPnl": 80.79
     },
     "long_VZ": {
       "sym": "VZ",
@@ -680,7 +708,11 @@
       "pnlDollar": -1.04,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 162.3779,
+      "currentValue": 7643.13,
+      "dollarPnl": -168.87
     },
     "long_QQQ": {
       "sym": "QQQ",
@@ -705,7 +737,11 @@
       "pnlDollar": 22.66,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 10.8298,
+      "currentValue": 8057.37,
+      "dollarPnl": 245.37
     },
     "long_AXP": {
       "sym": "AXP",
@@ -730,7 +766,11 @@
       "pnlDollar": 9.94,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 24.0044,
+      "currentValue": 8050.6,
+      "dollarPnl": 238.6
     },
     "long_VRTX": {
       "sym": "VRTX",
@@ -755,7 +795,11 @@
       "pnlDollar": 6.45,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 17.5942,
+      "currentValue": 7925.48,
+      "dollarPnl": 113.48
     },
     "long_BSX": {
       "sym": "BSX",
@@ -780,7 +824,11 @@
       "pnlDollar": -0.81,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 164.2211,
+      "currentValue": 7678.98,
+      "dollarPnl": -133.02
     },
     "long_REGN": {
       "sym": "REGN",
@@ -805,7 +853,11 @@
       "pnlDollar": 2.84,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 12.7618,
+      "currentValue": 7848.25,
+      "dollarPnl": 36.25
     },
     "long_STZ": {
       "sym": "STZ",
@@ -830,7 +882,11 @@
       "pnlDollar": -1.39,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 52.2472,
+      "currentValue": 7739.38,
+      "dollarPnl": -72.62
     },
     "long_LMT": {
       "sym": "LMT",
@@ -855,7 +911,11 @@
       "pnlDollar": -1.66,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 14.6837,
+      "currentValue": 7787.65,
+      "dollarPnl": -24.35
     },
     "long_OTIS": {
       "sym": "OTIS",
@@ -880,7 +940,11 @@
       "pnlDollar": -0.44,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 108.1246,
+      "currentValue": 7764.43,
+      "dollarPnl": -47.57
     },
     "long_VICI": {
       "sym": "VICI",
@@ -905,7 +969,11 @@
       "pnlDollar": -0.54,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 273.817,
+      "currentValue": 7664.14,
+      "dollarPnl": -147.86
     },
     "long_EIX": {
       "sym": "EIX",
@@ -930,7 +998,11 @@
       "pnlDollar": 0.12,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 108.4699,
+      "currentValue": 7825.02,
+      "dollarPnl": 13.02
     },
     "long_DXCM": {
       "sym": "DXCM",
@@ -955,7 +1027,11 @@
       "pnlDollar": 0.31,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 105.6961,
+      "currentValue": 7844.76,
+      "dollarPnl": 32.76
     },
     "long_ACM": {
       "sym": "ACM",
@@ -980,7 +1056,11 @@
       "pnlDollar": -1.31,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 110.1834,
+      "currentValue": 7667.66,
+      "dollarPnl": -144.34
     },
     "long_KBR": {
       "sym": "KBR",
@@ -1005,7 +1085,11 @@
       "pnlDollar": -0.88,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 218.8235,
+      "currentValue": 7619.43,
+      "dollarPnl": -192.57
     },
     "long_ASGN": {
       "sym": "ASGN",
@@ -1030,7 +1114,11 @@
       "pnlDollar": 0,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 371.6461,
+      "currentValue": 7812.0,
+      "dollarPnl": 0.0
     },
     "long_WSM": {
       "sym": "WSM",
@@ -1055,7 +1143,11 @@
       "pnlDollar": -0.27,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 34.9436,
+      "currentValue": 7802.56,
+      "dollarPnl": -9.44
     },
     "long_IWM": {
       "sym": "IWM",
@@ -1080,7 +1172,11 @@
       "pnlDollar": -1.06,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 26.4187,
+      "currentValue": 7784.01,
+      "dollarPnl": -27.99
     },
     "long_SCHD": {
       "sym": "SCHD",
@@ -1105,7 +1201,11 @@
       "pnlDollar": -0.19,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 238.0256,
+      "currentValue": 7766.78,
+      "dollarPnl": -45.22
     },
     "long_TCOM": {
       "sym": "TCOM",
@@ -1130,7 +1230,11 @@
       "pnlDollar": -0.11,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 164.4285,
+      "currentValue": 7793.91,
+      "dollarPnl": -18.09
     },
     "long_FUTU": {
       "sym": "FUTU",
@@ -1155,7 +1259,11 @@
       "pnlDollar": -1.43,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 76.9276,
+      "currentValue": 7701.99,
+      "dollarPnl": -110.01
     },
     "long_VALE": {
       "sym": "VALE",
@@ -1180,7 +1288,11 @@
       "pnlDollar": -0.32,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 478.6765,
+      "currentValue": 7658.82,
+      "dollarPnl": -153.18
     },
     "long_CIHKY": {
       "sym": "CIHKY",
@@ -1205,7 +1317,11 @@
       "pnlDollar": 0,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 248.1576,
+      "currentValue": 7812.0,
+      "dollarPnl": 0.0
     },
     "long_IDCBY": {
       "sym": "IDCBY",
@@ -1230,22 +1346,26 @@
       "pnlDollar": 0,
       "nearStopLoss": false,
       "targetHit": false,
-      "stopHit": false
+      "stopHit": false,
+      "dollarsInvested": 7812,
+      "shares": 423.8741,
+      "currentValue": 7812.0,
+      "dollarPnl": 0.0
     }
   },
   "stats": {
     "totalTrades": 0,
     "openPositions": 30,
     "initialPortfolio": 250000,
-    "portfolioValue": 250000,
-    "totalDollarPnl": 0,
-    "openDollarPnl": 0,
+    "portfolioValue": 249611.52,
+    "totalDollarPnl": -388.48,
+    "openDollarPnl": -388.48,
     "closedDollarPnl": 0,
-    "cashRemaining": 62500,
-    "totalDollarsInvested": 187500,
+    "cashRemaining": 14077,
+    "totalDollarsInvested": 235923,
     "winRate": 0,
     "totalClosedPnl": 0,
-    "totalOpenPnl": -4.84,
+    "totalOpenPnl": -0.16,
     "avgGain": 0,
     "avgLoss": 0,
     "profitFactor": null,
