@@ -1117,8 +1117,8 @@
       "stopHit": false,
       "dollarsInvested": 7812,
       "shares": 371.6461,
-      "currentValue": 7812.0,
-      "dollarPnl": 0.0
+      "currentValue": 7812,
+      "dollarPnl": 0
     },
     "long_WSM": {
       "sym": "WSM",
@@ -1320,8 +1320,8 @@
       "stopHit": false,
       "dollarsInvested": 7812,
       "shares": 248.1576,
-      "currentValue": 7812.0,
-      "dollarPnl": 0.0
+      "currentValue": 7812,
+      "dollarPnl": 0
     },
     "long_IDCBY": {
       "sym": "IDCBY",
@@ -1349,8 +1349,8 @@
       "stopHit": false,
       "dollarsInvested": 7812,
       "shares": 423.8741,
-      "currentValue": 7812.0,
-      "dollarPnl": 0.0
+      "currentValue": 7812,
+      "dollarPnl": 0
     }
   },
   "stats": {
@@ -1365,13 +1365,13 @@
     "totalDollarsInvested": 235923,
     "winRate": 0,
     "totalClosedPnl": 0,
-    "totalOpenPnl": -0.16,
+    "totalOpenPnl": -4.84,
     "avgGain": 0,
     "avgLoss": 0,
     "profitFactor": null,
     "bestTrade": null,
     "worstTrade": null,
     "stopLossPct": 8,
-    "lastUpdated": "2026-06-15T20:51:06.476Z"
+    "lastUpdated": "2026-06-15T20:53:05.698Z"
   }
 }
