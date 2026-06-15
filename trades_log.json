@@ -497,10 +497,15 @@
       "maxHoldDays": 10,
       "highPrice": 591.19,
       "lowPrice": 591.19,
-      "currentPrice": 591.19,
-      "currentPnlPct": 0,
+      "currentPrice": 593.48,
+      "currentPnlPct": 0.39,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 4.6739,
+      "pnlDollar": 2.29,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_BRK.B": {
       "sym": "BRK.B",
@@ -517,10 +522,15 @@
       "maxHoldDays": 60,
       "highPrice": 490.39,
       "lowPrice": 490.39,
-      "currentPrice": 490.39,
-      "currentPnlPct": 0,
+      "currentPrice": 495.52,
+      "currentPnlPct": 1.05,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 1.2816,
+      "pnlDollar": 5.13,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_PG": {
       "sym": "PG",
@@ -537,10 +547,15 @@
       "maxHoldDays": 60,
       "highPrice": 151.33,
       "lowPrice": 151.33,
-      "currentPrice": 151.33,
-      "currentPnlPct": 0,
+      "currentPrice": 150.46,
+      "currentPnlPct": -0.57,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 0.5681,
+      "pnlDollar": -0.87,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_MRK": {
       "sym": "MRK",
@@ -557,10 +572,15 @@
       "maxHoldDays": 45,
       "highPrice": 115.7,
       "lowPrice": 115.7,
-      "currentPrice": 115.7,
-      "currentPnlPct": 0,
+      "currentPrice": 114.9,
+      "currentPnlPct": -0.69,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": -3.4859,
+      "pnlDollar": -0.8,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_INTU": {
       "sym": "INTU",
@@ -577,10 +597,15 @@
       "maxHoldDays": 60,
       "highPrice": 277.7,
       "lowPrice": 277.7,
-      "currentPrice": 277.7,
-      "currentPnlPct": 0,
+      "currentPrice": 281.77,
+      "currentPnlPct": 1.47,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 1.8213,
+      "pnlDollar": 4.07,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_BKNG": {
       "sym": "BKNG",
@@ -597,10 +622,15 @@
       "maxHoldDays": 10,
       "highPrice": 174.02,
       "lowPrice": 174.02,
-      "currentPrice": 174.02,
-      "currentPnlPct": 0,
+      "currentPrice": 174.64,
+      "currentPnlPct": 0.36,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 5.8809,
+      "pnlDollar": 0.62,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_QCOM": {
       "sym": "QCOM",
@@ -617,10 +647,15 @@
       "maxHoldDays": 45,
       "highPrice": 218.55,
       "lowPrice": 218.55,
-      "currentPrice": 218.55,
-      "currentPnlPct": 0,
+      "currentPrice": 220.81,
+      "currentPnlPct": 1.03,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 4.2934,
+      "pnlDollar": 2.26,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_VZ": {
       "sym": "VZ",
@@ -637,10 +672,15 @@
       "maxHoldDays": 60,
       "highPrice": 48.11,
       "lowPrice": 48.11,
-      "currentPrice": 48.11,
-      "currentPnlPct": 0,
+      "currentPrice": 47.07,
+      "currentPnlPct": -2.16,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": -2.1617,
+      "pnlDollar": -1.04,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_QQQ": {
       "sym": "QQQ",
@@ -657,10 +697,15 @@
       "maxHoldDays": 45,
       "highPrice": 721.34,
       "lowPrice": 721.34,
-      "currentPrice": 721.34,
-      "currentPnlPct": 0,
+      "currentPrice": 744,
+      "currentPnlPct": 3.14,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 3.1414,
+      "pnlDollar": 22.66,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_AXP": {
       "sym": "AXP",
@@ -677,10 +722,15 @@
       "maxHoldDays": 10,
       "highPrice": 325.44,
       "lowPrice": 325.44,
-      "currentPrice": 325.44,
-      "currentPnlPct": 0,
+      "currentPrice": 335.38,
+      "currentPnlPct": 3.05,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 3.0543,
+      "pnlDollar": 9.94,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_VRTX": {
       "sym": "VRTX",
@@ -697,10 +747,15 @@
       "maxHoldDays": 45,
       "highPrice": 444.01,
       "lowPrice": 444.01,
-      "currentPrice": 444.01,
-      "currentPnlPct": 0,
+      "currentPrice": 450.46,
+      "currentPnlPct": 1.45,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 1.244,
+      "pnlDollar": 6.45,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_BSX": {
       "sym": "BSX",
@@ -717,10 +772,15 @@
       "maxHoldDays": 60,
       "highPrice": 47.57,
       "lowPrice": 47.57,
-      "currentPrice": 47.57,
-      "currentPnlPct": 0,
+      "currentPrice": 46.76,
+      "currentPnlPct": -1.7,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": -0.3198,
+      "pnlDollar": -0.81,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_REGN": {
       "sym": "REGN",
@@ -737,10 +797,15 @@
       "maxHoldDays": 60,
       "highPrice": 612.14,
       "lowPrice": 612.14,
-      "currentPrice": 612.14,
-      "currentPnlPct": 0,
+      "currentPrice": 614.98,
+      "currentPnlPct": 0.46,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 0.4639,
+      "pnlDollar": 2.84,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_STZ": {
       "sym": "STZ",
@@ -757,10 +822,15 @@
       "maxHoldDays": 10,
       "highPrice": 149.52,
       "lowPrice": 149.52,
-      "currentPrice": 149.52,
-      "currentPnlPct": 0,
+      "currentPrice": 148.13,
+      "currentPnlPct": -0.93,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": -0.2559,
+      "pnlDollar": -1.39,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_LMT": {
       "sym": "LMT",
@@ -777,10 +847,15 @@
       "maxHoldDays": 45,
       "highPrice": 532.02,
       "lowPrice": 532.02,
-      "currentPrice": 532.02,
-      "currentPnlPct": 0,
+      "currentPrice": 530.36,
+      "currentPnlPct": -0.31,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": -1.8452,
+      "pnlDollar": -1.66,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_OTIS": {
       "sym": "OTIS",
@@ -797,10 +872,15 @@
       "maxHoldDays": 60,
       "highPrice": 72.25,
       "lowPrice": 72.25,
-      "currentPrice": 72.25,
-      "currentPnlPct": 0,
+      "currentPrice": 71.81,
+      "currentPnlPct": -0.61,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 1.4982,
+      "pnlDollar": -0.44,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_VICI": {
       "sym": "VICI",
@@ -817,10 +897,15 @@
       "maxHoldDays": 60,
       "highPrice": 28.53,
       "lowPrice": 28.53,
-      "currentPrice": 28.53,
-      "currentPnlPct": 0,
+      "currentPrice": 27.99,
+      "currentPnlPct": -1.89,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": -1.8583,
+      "pnlDollar": -0.54,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_EIX": {
       "sym": "EIX",
@@ -837,10 +922,15 @@
       "maxHoldDays": 60,
       "highPrice": 72.02,
       "lowPrice": 72.02,
-      "currentPrice": 72.02,
-      "currentPnlPct": 0,
+      "currentPrice": 72.14,
+      "currentPnlPct": 0.17,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": -1.1103,
+      "pnlDollar": 0.12,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_DXCM": {
       "sym": "DXCM",
@@ -857,10 +947,15 @@
       "maxHoldDays": 20,
       "highPrice": 73.91,
       "lowPrice": 73.91,
-      "currentPrice": 73.91,
-      "currentPnlPct": 0,
+      "currentPrice": 74.22,
+      "currentPnlPct": 0.42,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": -1.5258,
+      "pnlDollar": 0.31,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_ACM": {
       "sym": "ACM",
@@ -877,10 +972,15 @@
       "maxHoldDays": 60,
       "highPrice": 70.9,
       "lowPrice": 70.9,
-      "currentPrice": 70.9,
-      "currentPnlPct": 0,
+      "currentPrice": 69.59,
+      "currentPnlPct": -1.85,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": -0.7558,
+      "pnlDollar": -1.31,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_KBR": {
       "sym": "KBR",
@@ -897,10 +997,15 @@
       "maxHoldDays": 60,
       "highPrice": 35.7,
       "lowPrice": 35.7,
-      "currentPrice": 35.7,
-      "currentPnlPct": 0,
+      "currentPrice": 34.82,
+      "currentPnlPct": -2.46,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": -2.846,
+      "pnlDollar": -0.88,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_ASGN": {
       "sym": "ASGN",
@@ -920,7 +1025,12 @@
       "currentPrice": 21.02,
       "currentPnlPct": 0,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 4.0594,
+      "pnlDollar": 0,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_WSM": {
       "sym": "WSM",
@@ -937,10 +1047,15 @@
       "maxHoldDays": 10,
       "highPrice": 223.56,
       "lowPrice": 223.56,
-      "currentPrice": 223.56,
-      "currentPnlPct": 0,
+      "currentPrice": 223.29,
+      "currentPnlPct": -0.12,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": -0.1118,
+      "pnlDollar": -0.27,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_IWM": {
       "sym": "IWM",
@@ -957,10 +1072,15 @@
       "maxHoldDays": 45,
       "highPrice": 295.7,
       "lowPrice": 295.7,
-      "currentPrice": 295.7,
-      "currentPnlPct": 0,
+      "currentPrice": 294.64,
+      "currentPnlPct": -0.36,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 0.5769,
+      "pnlDollar": -1.06,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_SCHD": {
       "sym": "SCHD",
@@ -977,10 +1097,15 @@
       "maxHoldDays": 10,
       "highPrice": 32.82,
       "lowPrice": 32.82,
-      "currentPrice": 32.82,
-      "currentPnlPct": 0,
+      "currentPrice": 32.63,
+      "currentPnlPct": -0.58,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": -0.5789,
+      "pnlDollar": -0.19,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_TCOM": {
       "sym": "TCOM",
@@ -997,10 +1122,15 @@
       "maxHoldDays": 45,
       "highPrice": 47.51,
       "lowPrice": 47.51,
-      "currentPrice": 47.51,
-      "currentPnlPct": 0,
+      "currentPrice": 47.4,
+      "currentPnlPct": -0.23,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 2.0013,
+      "pnlDollar": -0.11,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_FUTU": {
       "sym": "FUTU",
@@ -1017,10 +1147,15 @@
       "maxHoldDays": 10,
       "highPrice": 101.55,
       "lowPrice": 101.55,
-      "currentPrice": 101.55,
-      "currentPnlPct": 0,
+      "currentPrice": 100.12,
+      "currentPnlPct": -1.41,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 2.6451,
+      "pnlDollar": -1.43,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_VALE": {
       "sym": "VALE",
@@ -1037,10 +1172,15 @@
       "maxHoldDays": 45,
       "highPrice": 16.32,
       "lowPrice": 16.32,
-      "currentPrice": 16.32,
-      "currentPnlPct": 0,
+      "currentPrice": 16,
+      "currentPnlPct": -1.96,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 1.846,
+      "pnlDollar": -0.32,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_CIHKY": {
       "sym": "CIHKY",
@@ -1060,7 +1200,12 @@
       "currentPrice": 31.48,
       "currentPnlPct": 0,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 1.6468,
+      "pnlDollar": 0,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     },
     "long_IDCBY": {
       "sym": "IDCBY",
@@ -1080,7 +1225,12 @@
       "currentPrice": 18.43,
       "currentPnlPct": 0,
       "holdDays": 0,
-      "lastUpdated": "2026-06-15"
+      "lastUpdated": "2026-06-15",
+      "currentPct": 2.7886,
+      "pnlDollar": 0,
+      "nearStopLoss": false,
+      "targetHit": false,
+      "stopHit": false
     }
   },
   "stats": {
@@ -1088,13 +1238,13 @@
     "openPositions": 30,
     "winRate": 0,
     "totalClosedPnl": 0,
-    "totalOpenPnl": 0,
+    "totalOpenPnl": -4.84,
     "avgGain": 0,
     "avgLoss": 0,
     "profitFactor": null,
     "bestTrade": null,
     "worstTrade": null,
     "stopLossPct": 8,
-    "lastUpdated": "2026-06-15"
+    "lastUpdated": "2026-06-15T20:37:47.204Z"
   }
 }
