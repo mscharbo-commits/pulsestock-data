@@ -1338,12 +1338,12 @@
       "maxHoldDays": 45,
       "highPrice": 18.43,
       "lowPrice": 18.43,
-      "currentPrice": 18.43,
-      "currentPnlPct": 0,
+      "currentPrice": 18.27,
+      "currentPnlPct": -0.87,
       "holdDays": 0,
       "lastUpdated": "2026-06-15",
-      "currentPct": 2.7886,
-      "pnlDollar": 0,
+      "currentPct": -0.8681,
+      "pnlDollar": -0.16,
       "nearStopLoss": false,
       "targetHit": false,
       "stopHit": false,
@@ -1365,13 +1365,13 @@
     "totalDollarsInvested": 235923,
     "winRate": 0,
     "totalClosedPnl": 0,
-    "totalOpenPnl": -4.84,
+    "totalOpenPnl": -5.71,
     "avgGain": 0,
     "avgLoss": 0,
     "profitFactor": null,
     "bestTrade": null,
     "worstTrade": null,
     "stopLossPct": 8,
-    "lastUpdated": "2026-06-16T02:35:05.898Z"
+    "lastUpdated": "2026-06-16T02:37:05.974Z"
   }
 }
