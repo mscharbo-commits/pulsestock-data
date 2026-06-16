@@ -796,8 +796,8 @@
       "portfolioType": "swing",
       "currentPrice": 326.43,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7499.99,
+      "dollarPnl": -0.01,
       "holdDays": 0
     },
     "long_MRK": {
@@ -842,8 +842,8 @@
       "portfolioType": "swing",
       "currentPrice": 233.96,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7500.01,
+      "dollarPnl": 0.01,
       "holdDays": 0
     },
     "long_REGN": {
@@ -865,8 +865,8 @@
       "portfolioType": "swing",
       "currentPrice": 614.98,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7499.99,
+      "dollarPnl": -0.01,
       "holdDays": 0
     },
     "long_STZ": {
@@ -934,8 +934,8 @@
       "portfolioType": "swing",
       "currentPrice": 412.03,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7500.02,
+      "dollarPnl": 0.02,
       "holdDays": 0
     },
     "long_VICI": {
@@ -1128,10 +1128,10 @@
     "openPositions": 25,
     "totalTrades": 0,
     "winRate": 0,
-    "portfolioValue": 75000.02,
-    "openDollarPnl": 0.02,
+    "portfolioValue": 75000.03,
+    "openDollarPnl": 0.03,
     "closedDollarPnl": 0,
-    "totalDollarPnl": 0.02,
+    "totalDollarPnl": 0.03,
     "dollarsInvested": 187500,
     "cashRemaining": -112500,
     "totalOpenPnl": 0,
