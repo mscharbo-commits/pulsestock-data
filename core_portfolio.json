@@ -662,12 +662,7 @@
       "currentPnlPct": 0,
       "currentValue": 7500,
       "dollarPnl": 0,
-      "holdDays": 0,
-      "currentPct": 0.8153,
-      "pnlDollar": 0,
-      "nearStopLoss": false,
-      "targetHit": false,
-      "stopHit": false
+      "holdDays": 0
     },
     "long_WSM": {
       "sym": "WSM",
@@ -748,16 +743,11 @@
       "holdType": "defensive",
       "maxHoldDays": 5,
       "portfolioType": "swing",
-      "currentPrice": 32.38,
-      "currentPnlPct": -0.34,
+      "currentPrice": 32.49,
+      "currentPnlPct": 0,
       "currentValue": 7500,
       "dollarPnl": 0,
-      "holdDays": 0,
-      "currentPct": -0.4611,
-      "pnlDollar": -0.11,
-      "nearStopLoss": false,
-      "targetHit": false,
-      "stopHit": false
+      "holdDays": 0
     },
     "long_TCOM": {
       "sym": "TCOM",
@@ -776,16 +766,11 @@
       "holdType": "momentum",
       "maxHoldDays": 5,
       "portfolioType": "swing",
-      "currentPrice": 47.02,
-      "currentPnlPct": -0.61,
+      "currentPrice": 47.31,
+      "currentPnlPct": 0,
       "currentValue": 7500,
       "dollarPnl": 0,
-      "holdDays": 0,
-      "currentPct": 1.7088,
-      "pnlDollar": -0.29,
-      "nearStopLoss": false,
-      "targetHit": false,
-      "stopHit": false
+      "holdDays": 0
     },
     "long_FUTU": {
       "sym": "FUTU",
@@ -928,16 +913,11 @@
       "holdType": "catalyst",
       "maxHoldDays": 5,
       "portfolioType": "swing",
-      "currentPrice": 336.27,
-      "currentPnlPct": -0.03,
+      "currentPrice": 336.38,
+      "currentPnlPct": 0,
       "currentValue": 7500,
       "dollarPnl": 0,
-      "holdDays": 0,
-      "currentPct": 1.5492,
-      "pnlDollar": -0.11,
-      "nearStopLoss": false,
-      "targetHit": false,
-      "stopHit": false
+      "holdDays": 0
     },
     "long_PNC": {
       "sym": "PNC",
@@ -988,7 +968,7 @@
     "profitFactor": null,
     "bestTrade": null,
     "worstTrade": null,
-    "lastUpdated": "2026-06-17T16:49:50.335Z"
+    "lastUpdated": "2026-06-17T16:50:01.678Z"
   },
   "portfolio": "core"
 }
