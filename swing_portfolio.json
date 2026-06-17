@@ -1103,8 +1103,8 @@
       "portfolioType": "swing",
       "currentPrice": 235.2,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7500.01,
+      "dollarPnl": 0.01,
       "holdDays": 0
     },
     "long_CAT": {
@@ -1126,8 +1126,8 @@
       "portfolioType": "swing",
       "currentPrice": 965.42,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7499.96,
+      "dollarPnl": -0.04,
       "holdDays": 0
     },
     "long_GS": {
@@ -1149,8 +1149,8 @@
       "portfolioType": "swing",
       "currentPrice": 1115.15,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7500.05,
+      "dollarPnl": 0.05,
       "holdDays": 0
     },
     "long_RTX": {
@@ -1241,8 +1241,8 @@
       "portfolioType": "swing",
       "currentPrice": 1061.74,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7500.03,
+      "dollarPnl": 0.03,
       "holdDays": 0
     },
     "long_ETN": {
@@ -1333,8 +1333,8 @@
       "portfolioType": "swing",
       "currentPrice": 142.86,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7500.01,
+      "dollarPnl": 0.01,
       "holdDays": 0
     },
     "long_LULU": {
@@ -1356,8 +1356,8 @@
       "portfolioType": "swing",
       "currentPrice": 118.72,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7500.01,
+      "dollarPnl": 0.01,
       "holdDays": 0
     },
     "long_GD": {
@@ -1379,8 +1379,8 @@
       "portfolioType": "swing",
       "currentPrice": 364.1,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7499.99,
+      "dollarPnl": -0.01,
       "holdDays": 0
     },
     "long_HII": {
@@ -1425,8 +1425,8 @@
       "portfolioType": "swing",
       "currentPrice": 1324.08,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7499.99,
+      "dollarPnl": -0.01,
       "holdDays": 0
     },
     "long_ITW": {
@@ -1540,8 +1540,8 @@
       "portfolioType": "swing",
       "currentPrice": 482.48,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7500.01,
+      "dollarPnl": 0.01,
       "holdDays": 0
     },
     "long_SLB": {
@@ -1609,8 +1609,8 @@
       "portfolioType": "swing",
       "currentPrice": 182.92,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7499.99,
+      "dollarPnl": -0.01,
       "holdDays": 0
     },
     "long_TTWO": {
@@ -1632,8 +1632,8 @@
       "portfolioType": "swing",
       "currentPrice": 232.77,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7499.99,
+      "dollarPnl": -0.01,
       "holdDays": 0
     },
     "long_CACI": {
@@ -1655,8 +1655,8 @@
       "portfolioType": "swing",
       "currentPrice": 504.42,
       "currentPnlPct": 0,
-      "currentValue": 7500,
-      "dollarPnl": 0,
+      "currentValue": 7500.02,
+      "dollarPnl": 0.02,
       "holdDays": 0
     },
     "long_ASGN": {
@@ -1826,10 +1826,10 @@
     "openPositions": 40,
     "totalTrades": 4,
     "winRate": 25,
-    "portfolioValue": 74949.07,
-    "openDollarPnl": 169.77,
+    "portfolioValue": 74949.13,
+    "openDollarPnl": 169.83,
     "closedDollarPnl": -220.7,
-    "totalDollarPnl": -50.93,
+    "totalDollarPnl": -50.87,
     "dollarsInvested": 300000,
     "cashRemaining": -225000,
     "totalOpenPnl": 0.06,
