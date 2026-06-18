@@ -966,13 +966,13 @@
     "totalDollarPnl": -3057.08,
     "dollarsInvested": 150000,
     "cashRemaining": 0,
-    "totalOpenPnl": -0.64,
+    "totalOpenPnl": -2.04,
     "avgGain": 0,
     "avgLoss": 0,
     "profitFactor": null,
     "bestTrade": null,
     "worstTrade": null,
-    "lastUpdated": "2026-06-17"
+    "lastUpdated": "2026-06-18"
   },
   "portfolio": "core"
 }
