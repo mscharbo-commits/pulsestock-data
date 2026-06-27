@@ -302,8 +302,11 @@
       "stopPrice": 234.65,
       "dollarsInvested": 7500,
       "shares": 31.6429,
-      "status": "open",
-      "maxHoldDays": 5
+      "status": "closed",
+      "maxHoldDays": 5,
+      "exitPrice": 222.16,
+      "pnlPct": -6.27,
+      "exitDate": ""
     },
     {
       "id": "long_UBER_2026-06-16_swing",
@@ -382,8 +385,11 @@
       "stopPrice": 164.4,
       "dollarsInvested": 7500,
       "shares": 45.1644,
-      "status": "open",
-      "maxHoldDays": 5
+      "status": "closed",
+      "maxHoldDays": 5,
+      "exitPrice": 155.07,
+      "pnlPct": -6.62,
+      "exitDate": ""
     },
     {
       "id": "long_ECL_2026-06-16_swing",
@@ -430,8 +436,11 @@
       "stopPrice": 487.76,
       "dollarsInvested": 7500,
       "shares": 15.2226,
-      "status": "open",
-      "maxHoldDays": 5
+      "status": "closed",
+      "maxHoldDays": 5,
+      "exitPrice": 453.05,
+      "pnlPct": -8.05,
+      "exitDate": ""
     },
     {
       "id": "long_PDD_2026-06-16_swing",
@@ -446,8 +455,11 @@
       "stopPrice": 81.25,
       "dollarsInvested": 7500,
       "shares": 91.3854,
-      "status": "open",
-      "maxHoldDays": 5
+      "status": "closed",
+      "maxHoldDays": 5,
+      "exitPrice": 75.16,
+      "pnlPct": -8.42,
+      "exitDate": ""
     },
     {
       "id": "long_META_2026-06-22_swing",
@@ -466,7 +478,10 @@
       "reason": "JPMorgan aggressive buyer call; strong 26.2% revenue growth offsets today's dip",
       "holdType": "growth",
       "maxHoldDays": 5,
-      "status": "open"
+      "status": "closed",
+      "exitPrice": 552.14,
+      "pnlPct": -2.2,
+      "exitDate": ""
     },
     {
       "id": "short_GOOGL_2026-06-23_swing",
@@ -485,7 +500,10 @@
       "reason": "Underperforming market by -4.7% in bull run; PE 31.9x elevated; no analyst coverage",
       "holdType": "growth",
       "maxHoldDays": 5,
-      "status": "open"
+      "status": "closed",
+      "exitPrice": 340.67,
+      "pnlPct": -2.58,
+      "exitDate": ""
     }
   ],
   "stats": {
