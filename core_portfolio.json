@@ -69,8 +69,11 @@
       "shares": 103.8062,
       "confidence": 78,
       "reason": "Dividend yield attractive; modernization drives recurring revenue growth",
-      "status": "open",
-      "maxHoldDays": 90
+      "status": "closed",
+      "maxHoldDays": 90,
+      "exitPrice": 73.13,
+      "pnlPct": 1.22,
+      "exitDate": "2026-06-26T00:00:00Z"
     },
     {
       "id": "long_VICI_2026-06-16_core",
@@ -105,8 +108,11 @@
       "shares": 104.1377,
       "confidence": 78,
       "reason": "Attractive PE 6.0x, low beta 0.67 provides stability, defensive utility",
-      "status": "open",
-      "maxHoldDays": 90
+      "status": "closed",
+      "maxHoldDays": 90,
+      "exitPrice": 74.77,
+      "pnlPct": 3.82,
+      "exitDate": "2026-06-26T00:00:00Z"
     },
     {
       "id": "long_DXCM_2026-06-16_core",
@@ -177,8 +183,11 @@
       "shares": 356.803,
       "confidence": 78,
       "reason": "Extremely low PE 6.9x with strong recent momentum and low volatility.",
-      "status": "open",
-      "maxHoldDays": 90
+      "status": "closed",
+      "maxHoldDays": 90,
+      "exitPrice": 17.06,
+      "pnlPct": -18.84,
+      "exitDate": ""
     },
     {
       "id": "long_WSM_2026-06-16_core",
@@ -195,8 +204,11 @@
       "shares": 33.548,
       "confidence": 78,
       "reason": "AI integration in retail ops, BofA reinstatement, strong momentum",
-      "status": "open",
-      "maxHoldDays": 90
+      "status": "closed",
+      "maxHoldDays": 90,
+      "exitPrice": 237.72,
+      "pnlPct": 6.33,
+      "exitDate": "2026-06-26T00:00:00Z"
     },
     {
       "id": "long_IWM_2026-06-16_core",
@@ -249,8 +261,11 @@
       "shares": 157.8615,
       "confidence": 78,
       "reason": "Extremely low PE 6.3x suggests significant undervaluation; strong value play",
-      "status": "open",
-      "maxHoldDays": 90
+      "status": "closed",
+      "maxHoldDays": 90,
+      "exitPrice": 39.89,
+      "pnlPct": -16.04,
+      "exitDate": ""
     },
     {
       "id": "long_FUTU_2026-06-16_core",
@@ -303,8 +318,11 @@
       "shares": 238.2465,
       "confidence": 78,
       "reason": "Extremely low PE ratio 6.6x suggests significant undervaluation in financials",
-      "status": "open",
-      "maxHoldDays": 90
+      "status": "closed",
+      "maxHoldDays": 90,
+      "exitPrice": 28.5,
+      "pnlPct": -9.47,
+      "exitDate": ""
     },
     {
       "id": "long_IDCBY_2026-06-16_core",
@@ -321,8 +339,11 @@
       "shares": 406.9452,
       "confidence": 78,
       "reason": "Extremely low PE ratio 7.0x suggests significant undervaluation in financials sector",
-      "status": "open",
-      "maxHoldDays": 90
+      "status": "closed",
+      "maxHoldDays": 90,
+      "exitPrice": 16.88,
+      "pnlPct": -8.41,
+      "exitDate": ""
     },
     {
       "id": "long_JPM_2026-06-16_core",
@@ -339,8 +360,11 @@
       "shares": 22.9758,
       "confidence": 78,
       "reason": "EU expansion growth catalyst, attractive 15x PE, strong beta positioning",
-      "status": "open",
-      "maxHoldDays": 90
+      "status": "closed",
+      "maxHoldDays": 90,
+      "exitPrice": 331.77,
+      "pnlPct": 1.64,
+      "exitDate": "2026-06-26T00:00:00Z"
     },
     {
       "id": "long_PNC_2026-06-16_core",
@@ -357,8 +381,11 @@
       "shares": 32.0568,
       "confidence": 78,
       "reason": "Analyst upgrade, attractive valuation at 13.6x PE, defensive beta profile",
-      "status": "open",
-      "maxHoldDays": 90
+      "status": "closed",
+      "maxHoldDays": 90,
+      "exitPrice": 244.33,
+      "pnlPct": 4.43,
+      "exitDate": "2026-06-26T00:00:00Z"
     },
     {
       "id": "long_UNH_2026-06-26_core",
